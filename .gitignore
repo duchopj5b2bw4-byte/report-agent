@@ -12,3 +12,5 @@ data/memories.json
 *.tsbuildinfo
 tail.log
 tail.err
+.demo-tools/
+demo-output/
