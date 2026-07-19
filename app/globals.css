@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { background: #0a0a0a; color: #e5e5e5; }
+
+@media print {
+  body {
+    background: white;
+    color: black;
+  }
+  @page {
+    margin: 2cm;
+  }
+  .print\:hidden {
+    display: none !important;
+  }
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}

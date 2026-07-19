@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - DASHSCOPE_API_KEY=${DASHSCOPE_API_KEY}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL:-https://dashscope-intl.aliyuncs.com/compatible-mode/v1}
+      - OPENAI_MODEL=${OPENAI_MODEL:-qwen3.7-plus}
+      - NODE_ENV=production
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped

@@ -1,0 +1,14 @@
+node_modules/
+.next/
+*.local
+.env
+data/memories.json
+.env.local
+.env.production
+.vercel
+.open-next/
+.wrangler/
+.dev.vars
+*.tsbuildinfo
+tail.log
+tail.err

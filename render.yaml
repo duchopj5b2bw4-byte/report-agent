@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: report-agent
+    env: docker
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: DASHSCOPE_API_KEY
+        sync: false
+      - key: OPENAI_BASE_URL
+        value: https://dashscope-intl.aliyuncs.com/compatible-mode/v1
+      - key: OPENAI_MODEL
+        value: qwen3.7-plus
+      - key: NODE_ENV
+        value: production

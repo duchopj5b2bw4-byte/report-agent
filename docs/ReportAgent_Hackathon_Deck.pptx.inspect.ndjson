@@ -1,0 +1,99 @@
+{"kind":"deck","id":"pr/395jyo","name":"Deck"}
+{"kind":"layout","layoutId":"a4f5e2ba-7aee-48b4-a722-52fc3a07b3ca","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"f7de997d-8f06-4019-84fd-1943e346c892","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/c1swqh","slide":1,"title":"QWEN CLOUD · MEMORYAGENT","textShapes":4}
+{"kind":"textbox","id":"sh/7i58zihk","slide":1,"text":"QWEN CLOUD · MEMORYAGENT","textPreview":"QWEN CLOUD · MEMORYAGENT","textChars":24,"textLines":1,"bbox":[42,42,580,38]}
+{"kind":"textbox","id":"sh/sjep8ni5","slide":1,"text":"ReportAgent","textPreview":"ReportAgent","textChars":11,"textLines":1,"bbox":[42,192,900,118]}
+{"kind":"textbox","id":"sh/t4nq1szq","slide":1,"text":"Reports that learn from every week","textPreview":"Reports that learn from every week","textChars":34,"textLines":1,"bbox":[42,324,800,92]}
+{"kind":"textbox","id":"sh/idc72d03","slide":1,"text":"Multimodal reporting · persistent memory · selective forgetting","textPreview":"Multimodal reporting · persistent memory · selective forgetting","textChars":63,"textLines":1,"bbox":[42,540,860,64]}
+{"kind":"shape","id":"sh/je58vih8","slide":1,"bbox":[42,650,1196,5]}
+{"kind":"notes","id":"nt/c1swqh","slide":1,"text":""}
+{"kind":"slide","id":"sl/zpe2hl","slide":2,"title":"Reporting resets every week. The context should not.","textShapes":14}
+{"kind":"textbox","id":"sh/pozihk32","slide":2,"text":"Reporting resets every week. The context should not.","textPreview":"Reporting resets every week. The context should not.","textChars":52,"textLines":1,"bbox":[42,34,1120,82]}
+{"kind":"textbox","id":"sh/2loz654b","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1170,36,68,28]}
+{"kind":"shape","id":"sh/3mx0falw","slide":2,"bbox":[42,112,1196,2]}
+{"kind":"textbox","id":"sh/gj6h4vml","slide":2,"text":"The old workflow","textPreview":"The old workflow","textChars":16,"textLines":1,"bbox":[42,164,450,44]}
+{"kind":"textbox","id":"sh/hkfyd0nq","slide":2,"text":"Screenshots and notes become a static document — then the next report starts from zero.","textPreview":"Screenshots and notes become a static document — then the next report starts from zero.","textChars":87,"textLines":1,"bbox":[42,224,500,190]}
+{"kind":"shape","id":"sh/uhoz254f","slide":2,"bbox":[644,164,594,430]}
+{"kind":"textbox","id":"sh/fixgba50","slide":2,"text":"What disappears","textPreview":"What disappears","textChars":15,"textLines":1,"bbox":[684,206,500,42]}
+{"kind":"textbox","id":"sh/svmh0vm9","slide":2,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[684,282,34,32]}
+{"kind":"textbox","id":"sh/tgvy90nu","slide":2,"text":"Past decisions and baselines","textPreview":"Past decisions and baselines","textChars":28,"textLines":1,"bbox":[724,278,450,44]}
+{"kind":"textbox","id":"sh/h8bi5s7y","slide":2,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[684,347,34,32]}
+{"kind":"textbox","id":"sh/g7i1wn6d","slide":2,"text":"Preferred style, tone, and focus","textPreview":"Preferred style, tone, and focus","textChars":32,"textLines":1,"bbox":[724,343,450,44]}
+{"kind":"textbox","id":"sh/v6903ips","slide":2,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[684,412,34,32]}
+{"kind":"textbox","id":"sh/u50juxo7","slide":2,"text":"Signals hidden inside screenshots","textPreview":"Signals hidden inside screenshots","textChars":33,"textLines":1,"bbox":[724,408,450,44]}
+{"kind":"textbox","id":"sh/t4ri1s7m","slide":2,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[684,477,34,32]}
+{"kind":"textbox","id":"sh/83ihsn61","slide":2,"text":"Actions that should carry into next week","textPreview":"Actions that should carry into next week","textChars":40,"textLines":1,"bbox":[724,473,450,44]}
+{"kind":"textbox","id":"sh/7290zipw","slide":2,"text":"ReportAgent turns every report into reusable experience.","textPreview":"ReportAgent turns every report into reusable experience.","textChars":56,"textLines":1,"bbox":[42,512,520,100]}
+{"kind":"notes","id":"nt/zpe2hl","slide":2,"text":""}
+{"kind":"slide","id":"sl/kn623c","slide":3,"title":"A bounded memory loop keeps Qwen focused","textShapes":2}
+{"kind":"textbox","id":"sh/7u5snm9w","slide":3,"text":"A bounded memory loop keeps Qwen focused","textPreview":"A bounded memory loop keeps Qwen focused","textChars":40,"textLines":1,"bbox":[42,34,1120,82]}
+{"kind":"textbox","id":"sh/8ve9wrah","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1170,36,68,28]}
+{"kind":"shape","id":"sh/tgnapwr2","slide":3,"bbox":[42,112,1196,2]}
+{"kind":"image","id":"im/zi5kny98","slide":3,"name":"","alt":"ReportAgent persistent multimodal memory architecture","bbox":[50,132,1180,530]}
+{"kind":"notes","id":"nt/kn623c","slide":3,"text":""}
+{"kind":"slide","id":"sl/0s4m3n","slide":4,"title":"The agent used memory to explain three weeks of growth","textShapes":8}
+{"kind":"textbox","id":"sh/bq587at0","slide":4,"text":"The agent used memory to explain three weeks of growth","textPreview":"The agent used memory to explain three weeks of growth","textChars":54,"textLines":1,"bbox":[42,34,1120,82]}
+{"kind":"textbox","id":"sh/crep0ful","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1170,36,68,28]}
+{"kind":"shape","id":"sh/xs7q9kb6","slide":4,"bbox":[42,112,1196,2]}
+{"kind":"shape","id":"sh/n2583ado","slide":4,"bbox":[760,170,220,210]}
+{"kind":"textbox","id":"sh/o3epwvu9","slide":4,"text":"+62.5%","textPreview":"+62.5%","textChars":6,"textLines":1,"bbox":[790,212,160,72]}
+{"kind":"textbox","id":"sh/p4nq50bu","slide":4,"text":"WAU growth from the Week 1 baseline","textPreview":"WAU growth from the Week 1 baseline","textChars":35,"textLines":1,"bbox":[790,300,160,58]}
+{"kind":"shape","id":"sh/exc7qlc7","slide":4,"bbox":[1010,170,220,210]}
+{"kind":"textbox","id":"sh/fyl8zqds","slide":4,"text":"+23pp","textPreview":"+23pp","textChars":5,"textLines":1,"bbox":[1040,212,160,72]}
+{"kind":"textbox","id":"sh/fe9gjyps","slide":4,"text":"onboarding completion across three reports","textPreview":"onboarding completion across three reports","textChars":42,"textLines":1,"bbox":[1040,300,160,58]}
+{"kind":"textbox","id":"sh/ud0fqto7","slide":4,"text":"Verified with real Qwen Cloud calls: screenshot extraction, semantic retrieval, and trend reasoning.","textPreview":"Verified with real Qwen Cloud calls: screenshot extraction, semantic retrieval, and trend reasoning.","textChars":100,"textLines":1,"bbox":[760,440,470,120]}
+{"kind":"textbox","id":"sh/hgbyl87y","slide":4,"text":"Onboarding series is scaled ×20 only to share the chart axis.","textPreview":"Onboarding series is scaled ×20 only to share the chart axis.","textChars":61,"textLines":1,"bbox":[760,586,470,32]}
+{"kind":"chart","id":"ch/ulkbe103","slide":4,"name":"","chartType":"line","bbox":[42,150,660,500]}
+{"kind":"notes","id":"nt/0s4m3n","slide":4,"text":""}
+{"kind":"slide","id":"sl/mo05ga","slide":5,"title":"Memory is selective — not an ever-growing transcript","textShapes":14}
+{"kind":"textbox","id":"sh/fuxc325g","slide":5,"text":"Memory is selective — not an ever-growing transcript","textPreview":"Memory is selective — not an ever-growing transcript","textChars":52,"textLines":1,"bbox":[42,34,1120,82]}
+{"kind":"textbox","id":"sh/0v6dc761","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1170,36,68,28]}
+{"kind":"shape","id":"sh/1wzu5cnm","slide":5,"bbox":[42,112,1196,2]}
+{"kind":"shape","id":"sh/qpov6xoz","slide":5,"bbox":[42,158,570,205]}
+{"kind":"textbox","id":"sh/rqxcz25k","slide":5,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[70,184,54,34]}
+{"kind":"textbox","id":"sh/sr6d8765","slide":5,"text":"Recent","textPreview":"Recent","textChars":6,"textLines":1,"bbox":[140,178,390,48]}
+{"kind":"textbox","id":"sh/dsfu1cnq","slide":5,"text":"The latest reports preserve continuity and near-term commitments.","textPreview":"The latest reports preserve continuity and near-term commitments.","textChars":65,"textLines":1,"bbox":[140,240,420,86]}
+{"kind":"shape","id":"sh/il4b2do3","slide":5,"bbox":[652,158,570,205]}
+{"kind":"textbox","id":"sh/3mdcvi5o","slide":5,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[680,184,54,34]}
+{"kind":"textbox","id":"sh/jelk3q9k","slide":5,"text":"Relevant","textPreview":"Relevant","textChars":8,"textLines":1,"bbox":[750,178,390,48]}
+{"kind":"textbox","id":"sh/ydc3a58f","slide":5,"text":"Embeddings retrieve the closest past experience for the current task.","textPreview":"Embeddings retrieve the closest past experience for the current task.","textChars":69,"textLines":1,"bbox":[750,240,420,86]}
+{"kind":"shape","id":"sh/l03250rq","slide":5,"bbox":[42,403,570,205]}
+{"kind":"textbox","id":"sh/kfulcvq5","slide":5,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[70,429,54,34]}
+{"kind":"textbox","id":"sh/72lk7a9w","slide":5,"text":"Personal","textPreview":"Personal","textChars":8,"textLines":1,"bbox":[140,423,390,48]}
+{"kind":"textbox","id":"sh/61c3e58b","slide":5,"text":"Style, tone, and focus preferences persist across sessions.","textPreview":"Style, tone, and focus preferences persist across sessions.","textChars":59,"textLines":1,"bbox":[140,485,420,86]}
+{"kind":"shape","id":"sh/t4329k72","slide":5,"bbox":[652,403,570,205]}
+{"kind":"textbox","id":"sh/83ulgfqh","slide":5,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[680,429,54,34]}
+{"kind":"textbox","id":"sh/n61kb69s","slide":5,"text":"Forgetful","textPreview":"Forgetful","textChars":9,"textLines":1,"bbox":[750,423,390,48]}
+{"kind":"textbox","id":"sh/m58j2187","slide":5,"text":"Expired memories are removed; storage is bounded and access-aware.","textPreview":"Expired memories are removed; storage is bounded and access-aware.","textChars":66,"textLines":1,"bbox":[750,485,420,86]}
+{"kind":"notes","id":"nt/mo05ga","slide":5,"text":""}
+{"kind":"slide","id":"sl/d1p8rg","slide":6,"title":"One workflow produces six judge-visible outcomes","textShapes":14}
+{"kind":"textbox","id":"sh/idcn6d4n","slide":6,"text":"One workflow produces six judge-visible outcomes","textPreview":"One workflow produces six judge-visible outcomes","textChars":48,"textLines":1,"bbox":[42,34,1120,82]}
+{"kind":"textbox","id":"sh/5036h8ne","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1170,36,68,28]}
+{"kind":"shape","id":"sh/4fup83mt","slide":6,"bbox":[42,112,1196,2]}
+{"kind":"textbox","id":"sh/r2loji54","slide":6,"text":"SEE","textPreview":"SEE","textChars":3,"textLines":1,"bbox":[42,160,340,34]}
+{"kind":"textbox","id":"sh/q1c7ad4z","slide":6,"text":"Extract metrics from screenshots","textPreview":"Extract metrics from screenshots","textChars":32,"textLines":1,"bbox":[42,212,350,112]}
+{"kind":"shape","id":"sh/d4n6lsna","slide":6,"bbox":[42,342,350,3]}
+{"kind":"textbox","id":"sh/s3upcnmp","slide":6,"text":"WRITE","textPreview":"WRITE","textChars":5,"textLines":1,"bbox":[447,160,340,34]}
+{"kind":"textbox","id":"sh/f65on25g","slide":6,"text":"Generate editable structured reports","textPreview":"Generate editable structured reports","textChars":36,"textLines":1,"bbox":[447,212,350,112]}
+{"kind":"shape","id":"sh/e5w7ex4v","slide":6,"bbox":[447,342,350,3]}
+{"kind":"textbox","id":"sh/8vytgzqt","slide":6,"text":"COMPARE","textPreview":"COMPARE","textChars":7,"textLines":1,"bbox":[852,160,340,34]}
+{"kind":"textbox","id":"sh/9w7up4re","slide":6,"text":"Explain trends across periods","textPreview":"Explain trends across periods","textChars":29,"textLines":1,"bbox":[852,212,350,112]}
+{"kind":"shape","id":"sh/mtgbe983","slide":6,"bbox":[852,342,350,3]}
+{"kind":"textbox","id":"sh/7upcne98","slide":6,"text":"REMEMBER","textPreview":"REMEMBER","textChars":8,"textLines":1,"bbox":[42,390,340,34]}
+{"kind":"textbox","id":"sh/wzitkjq5","slide":6,"text":"Recall history and preferences","textPreview":"Recall history and preferences","textChars":30,"textLines":1,"bbox":[42,442,350,112]}
+{"kind":"shape","id":"sh/hkrutorq","slide":6,"bbox":[42,572,350,3]}
+{"kind":"textbox","id":"sh/ux0bi98z","slide":6,"text":"ANSWER","textPreview":"ANSWER","textChars":6,"textLines":1,"bbox":[447,390,340,34]}
+{"kind":"textbox","id":"sh/vy9cre9k","slide":6,"text":"Chat over past reports","textPreview":"Chat over past reports","textChars":22,"textLines":1,"bbox":[447,442,350,112]}
+{"kind":"shape","id":"sh/4nitojq1","slide":6,"bbox":[447,572,350,3]}
+{"kind":"textbox","id":"sh/5oruxorm","slide":6,"text":"DELIVER","textPreview":"DELIVER","textChars":7,"textLines":1,"bbox":[852,390,340,34]}
+{"kind":"textbox","id":"sh/d47u1ojq","slide":6,"text":"Export PDF / Markdown / voice","textPreview":"Export PDF / Markdown / voice","textChars":29,"textLines":1,"bbox":[852,442,350,112]}
+{"kind":"shape","id":"sh/sjet8ji5","slide":6,"bbox":[852,572,350,3]}
+{"kind":"notes","id":"nt/d1p8rg","slide":6,"text":""}
+{"kind":"slide","id":"sl/ult59b","slide":7,"title":"REPORTAGENT","textShapes":4}
+{"kind":"textbox","id":"sh/dcz65sni","slide":7,"text":"REPORTAGENT","textPreview":"REPORTAGENT","textChars":11,"textLines":1,"bbox":[42,42,300,40]}
+{"kind":"textbox","id":"sh/q9onudo7","slide":7,"text":"A reporting agent that remembers what matters.","textPreview":"A reporting agent that remembers what matters.","textChars":46,"textLines":1,"bbox":[42,190,1050,220]}
+{"kind":"textbox","id":"sh/raxo3i5s","slide":7,"text":"Qwen Cloud · persistent multimodal memory · open source","textPreview":"Qwen Cloud · persistent multimodal memory · open source","textChars":55,"textLines":1,"bbox":[42,500,900,52]}
+{"kind":"textbox","id":"sh/0fq50769","slide":7,"text":"github.com/duchopj5b2bw4-byte/report-agent","textPreview":"github.com/duchopj5b2bw4-byte/report-agent","textChars":42,"textLines":1,"bbox":[42,590,760,42]}
+{"kind":"shape","id":"sh/1gz69snu","slide":7,"bbox":[42,650,1196,5]}
+{"kind":"notes","id":"nt/ult59b","slide":7,"text":""}

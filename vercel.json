@@ -1,0 +1,17 @@
+{
+  "services": {
+    "report-agent": {
+      "root": ".",
+      "framework": "nextjs"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": {
+        "type": "service",
+        "service": "report-agent"
+      }
+    }
+  ]
+}
