@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101f"/><stop offset="1" stop-color="#14213d"/></linearGradient>
+    <style>
+      .title{font:700 42px Inter,Segoe UI,sans-serif;fill:#fff}.sub{font:22px Inter,Segoe UI,sans-serif;fill:#9eb3d8}
+      .h{font:700 25px Inter,Segoe UI,sans-serif;fill:#65e1cb}.t{font:19px Inter,Segoe UI,sans-serif;fill:#eef4ff}
+      .m{font:17px Consolas,monospace;fill:#b7c8e7}.small{font:16px Inter,Segoe UI,sans-serif;fill:#91a7cd}
+      .card{fill:#0c172b;stroke:#355488;stroke-width:2}.ok{fill:#0d3a34;stroke:#32c6a6;stroke-width:2}.code{fill:#111c32;stroke:#8659c7;stroke-width:2}
+    </style>
+  </defs>
+  <rect width="1400" height="900" rx="28" fill="url(#bg)"/>
+  <text x="70" y="76" class="title">ReportAgent · Alibaba Cloud Integration Evidence</text>
+  <text x="70" y="115" class="sub">Live Qwen Cloud APIs + public application + deployment-ready Function Compute specification</text>
+
+  <rect x="70" y="165" width="1260" height="160" rx="20" class="ok"/>
+  <text x="105" y="210" class="h">LIVE ALIBABA CLOUD / QWEN CLOUD API USAGE</text>
+  <text x="105" y="252" class="t">✓ qwen3.7-plus · vision + reports</text>
+  <text x="520" y="252" class="t">✓ text-embedding-v3 · semantic recall</text>
+  <text x="985" y="252" class="t">✓ qwen3-tts-flash · narration</text>
+  <text x="105" y="292" class="m">https://dashscope-intl.aliyuncs.com/compatible-mode/v1</text>
+
+  <rect x="70" y="360" width="600" height="220" rx="20" class="card"/>
+  <text x="105" y="405" class="h">LIVE PUBLIC APPLICATION</text>
+  <text x="105" y="450" class="t">ReportAgent production demo</text>
+  <text x="105" y="490" class="m">https://report-agent.cmwl858.workers.dev</text>
+  <text x="105" y="530" class="t">HTTP 200 · Qwen generation · embeddings · TTS</text>
+  <text x="105" y="560" class="small">API key stored only as an encrypted Cloudflare secret</text>
+
+  <rect x="700" y="360" width="630" height="220" rx="20" class="code"/>
+  <text x="735" y="405" class="h">SOURCE-CODE EVIDENCE</text>
+  <text x="735" y="450" class="m">lib/qwen.ts</text>
+  <text x="735" y="485" class="small">Live DashScope model and embedding API integration</text>
+  <text x="735" y="530" class="m">app/api/tts/route.ts</text>
+  <text x="735" y="565" class="small">Live qwen3-tts-flash multimodal-generation API</text>
+
+  <rect x="70" y="615" width="1260" height="175" rx="20" class="card"/>
+  <text x="105" y="660" class="h">ALIBABA CLOUD FUNCTION COMPUTE DEPLOYMENT SPECIFICATION</text>
+  <text x="105" y="705" class="m">deploy/alibaba-cloud/s.yaml</text>
+  <text x="470" y="705" class="t">FC 3.0 · custom container · public HTTP trigger · ap-southeast-1</text>
+  <text x="105" y="750" class="m">Dockerfile + docker-compose.yml</text>
+  <text x="470" y="750" class="t">Portable production container with persistent data volume</text>
+
+  <text x="70" y="842" class="small">Transparent hosting note: the public demo is hosted on Cloudflare Workers; Alibaba Cloud Qwen services are live.</text>
+  <text x="70" y="870" class="small">Function Compute deployment configuration is included in the public repository but is not represented here as a live FC instance.</text>
+</svg>
